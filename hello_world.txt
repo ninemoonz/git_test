@@ -2,3 +2,7 @@ This was really hard to config;
 I'm not sure why is not pushing it properly.
 This is not what I wanted
 THIS IS HELLO WORLD TEXT FILE.
+
+git config --global core.editor "code --wait"
+lets me to commit without -m "message"
+let's try
