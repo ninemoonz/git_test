@@ -1,5 +1,3 @@
 This was really hard to config;
 I'm not sure why is not pushing it properly.
-Should I fuck thi shsit?
-This is the commit line
-yes This
+Please work!
